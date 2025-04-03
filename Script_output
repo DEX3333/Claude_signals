@@ -1,0 +1,157 @@
+steezyp@MacBook-Pro Claude_Code % python3 AI_signal
+Starting Twitter Crypto Listings Tracker at 2025-04-03 15:41:52.449003
+Found Twitter user ID: 1392883724023439366 for @NewListingsFeed
+Checking for new tweets at 2025-04-03 15:41:53.288654
+Found 187 coins on Hyperliquid
+New tweet at 2025-04-03T16:00:03.000Z:
+'$NIL, $VINE, $GUN, $EDGE listed on @CoinbaseIntExch futures 
+https://t.co/CcxRwrBkas'
+Extracted coin symbols: ['EDGE', 'GUN', 'NIL', 'VINE']
+EDGE not found on Hyperliquid.
+GUN not found on Hyperliquid.
+MATCH FOUND: NIL is on Hyperliquid!
+----- CLAUDE ANALYSIS -----
+# NIL Crypto Short Analysis for Hyperliquid
+## Overall Assessment
+This appears to be a limited information case which makes it a high-risk shorting opportunity. The provided data is insufficient for a fully confident assessment.
+## Analysis
+1. **Short Opportunity:** Cannot confidently recommend as a short opportunity with such limited information.
+2. **Key Factors:**
+   - **Unattractive:**
+     - Low max leverage (3x) limits profit potential
+     - Recently listed on Coinbase International Exchange (typically bullish)
+     - No price history or chart data provided
+     - No tokenomics, market cap, or circulation details
+   - **Potentially Attractive:**
+     - New listings often experience initial pumps followed by corrections
+     - Zero decimal places suggests possible meme/novelty coin
+3. **Risks:**
+   - Extremely high volatility for new listings
+   - Limited leverage (3x) means liquidation at 33% move against position
+   - No information on token utility or backing
+   - Coinbase listing may drive sustained upward momentum
+4. **Price Targets:** Cannot reasonably establish without baseline price, trading history, or comparable metrics.
+5. **Confidence Rating:** 2/10 - Extremely speculative with insufficient data.
+**Recommendation:** Wait for more market data, trading patterns, and fundamental information before entering a short position.
+----------------------------
+MATCH FOUND: VINE is on Hyperliquid!
+----- CLAUDE ANALYSIS -----
+# VINE Short Opportunity Analysis
+## Overall Assessment
+Rating: 5/10 - Moderate risk short opportunity with limited information
+## Analysis
+### Short Opportunity Evaluation
+- Limited information provided makes this a speculative assessment
+- New Coinbase International Exchange futures listing may create initial volatility
+- Low maximum leverage (5x) on Hyperliquid suggests moderate risk assessment by the exchange
+### Attractive Factors for Shorting
+- New listings often experience pump-and-dump patterns
+- Zero decimal places in size suggests a potentially lower-priced token
+- Multiple coins listed simultaneously may dilute attention and buying pressure
+### Risk Factors
+- Limited price history to establish targets
+- Unknown fundamentals of the VINE project
+- Coinbase listing provides legitimacy which could attract genuine investors
+- Low max leverage (5x) limits potential profit but also indicates higher platform risk assessment
+### Price Targets
+- Without baseline price data, specific targets cannot be provided
+- Generally, look for 20-30% retracement from post-listing peak
+- Consider taking partial profits at 15% decline
+## Recommendation
+Wait for initial price action after listing to establish a baseline before entering a short position. Consider reduced position size due to limited information and moderate confidence level.
+----------------------------
+New tweet at 2025-04-03T11:45:34.000Z:
+'$XAUT listed on @Bybit_Official futures 
+https://t.co/ltD0fE508u'
+Extracted coin symbols: ['XAUT']
+XAUT not found on Hyperliquid.
+New tweet at 2025-04-03T09:49:43.000Z:
+'$BABY listed on @Bybit_Official pre-market 
+https://t.co/szRWETkSMB'
+Extracted coin symbols: ['BABY']
+BABY not found on Hyperliquid.
+New tweet at 2025-04-03T08:50:00.000Z:
+'$STO added to @binance alpha projects 
+0xdaf1695c41327b61b9b9965ac6a5843a3198cf07'
+Extracted coin symbols: ['STO']
+STO not found on Hyperliquid.
+New tweet at 2025-04-02T21:30:02.000Z:
+'$RSR added to @coinbase roadmap 
+https://t.co/b9v6xln0fx'
+Extracted coin symbols: ['RSR']
+MATCH FOUND: RSR is on Hyperliquid!
+----- CLAUDE ANALYSIS -----
+# RSR Short Opportunity Analysis
+## Overall Assessment
+This appears to be a potential "sell the news" opportunity, though with significant risks. Rating: **5/10**
+## Factors Making It Attractive for Shorting
+- Coinbase listings often create temporary price pumps followed by corrections
+- Low max leverage (3x) suggests Hyperliquid recognizes higher risk
+- Zero decimal places indicates a low-priced token, which can be more volatile
+- "Buy the rumor, sell the news" pattern often applies to exchange listings
+## Factors Making It Unattractive for Shorting
+- Currently only on roadmap, not yet listed - timing uncertainty
+- RSR (Reserve Rights) has an actual use case in the Reserve protocol
+- Coinbase listing provides genuine liquidity and access to new buyers
+## Risks
+- Short squeeze potential if listing causes sustained buying
+- Limited leverage (3x) reduces profit potential
+- Timing risk - price may drop before you can establish position
+- Coinbase effect could be stronger than anticipated
+## Reasonable Price Targets
+- Initial target: 10-15% below post-announcement peak
+- Secondary target: Pre-announcement price levels
+- Stop loss: Set at 10% above entry to manage risk
+I recommend waiting for the initial pump to show signs of exhaustion before entering, as premature shorting could be dangerous.
+----------------------------
+New tweet at 2025-04-02T19:39:48.000Z:
+'$EDGE listed on @coinbase spot 
+https://t.co/41DMrsAOy6'
+Extracted coin symbols: ['EDGE']
+EDGE not found on Hyperliquid.
+New tweet at 2025-04-02T13:38:09.000Z:
+'$ATH listed on @binance futures 
+https://t.co/6G3Q0tI3KS'
+Extracted coin symbols: ['ATH']
+ATH not found on Hyperliquid.
+New tweet at 2025-04-02T10:20:00.000Z:
+'$SAFE added to @binance alpha projects'
+Extracted coin symbols: ['SAFE']
+SAFE not found on Hyperliquid.
+New tweet at 2025-04-02T10:20:00.000Z:
+'$ZETA added to @binance alpha projects'
+Extracted coin symbols: ['ZETA']
+MATCH FOUND: ZETA is on Hyperliquid!
+----- CLAUDE ANALYSIS -----
+# ZETA Short Opportunity Analysis
+## Overall Assessment
+This appears to be a **moderate to high-risk shorting opportunity** with some potential, but significant caution required.
+## Evaluation Factors
+### Attractive for Shorting
+- Relatively low maximum leverage (3x) indicates potential volatility concerns
+- Binance "alpha projects" listings often see initial pump followed by retracement
+- First-time listings frequently experience post-listing dumps
+### Unattractive for Shorting
+- Binance backing provides legitimacy that could sustain price
+- Limited information provided about the token's fundamentals
+- Small decimals (0.1) suggests lower price point where downside may be limited
+### Risks
+- Potential squeeze from limited liquidity on Hyperliquid
+- Unknown market cap and circulating supply
+- Alpha project status could mean ongoing Binance support
+- Low max leverage (3x) limits profit potential while not reducing risk
+### Reasonable Price Targets
+- Initial pump: Consider short after 30-50% initial rise
+- Target: 20-30% retracement from peak
+- Stop loss: 15% above entry point
+## Rating: 5/10
+Medium confidence short opportunity with significant risks. Better to wait for the initial price action to establish a pattern before entry.
+----------------------------
+New tweet at 2025-04-01T08:43:00.000Z:
+'$KERNEL added to @binance megadrop 
+https://t.co/BFq8hPDT3c'
+Extracted coin symbols: ['KERNEL']
+KERNEL not found on Hyperliquid.
+Waiting 600 seconds before next check...
+
+This is a real output using my personal API keys
